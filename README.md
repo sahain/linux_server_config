@@ -1,5 +1,10 @@
-ip address: 18.191.254.176
-url: http://18.191.254.176.xip.io
+#### ip address
+18.191.254.176
+
+#### url
+http://18.191.254.176.xip.io
+
+#### software and configurations:
 
 update & upgrade server packages and software via sudo apt-get commands
 
@@ -38,7 +43,7 @@ restart apache
 
 set firewall to allow ports 80, 123 and 2200
 
-resources used in service of project completion:
+#### resources used in service of project completion:
 https://www.digitalocean.com/community/tutorials/how-to-configure-the-apache-web-server-on-an-ubuntu-or-debian-vps
 
 https://www.digitalocean.com/community/tutorials/how-to-deploy-a-flask-application-on-an-ubuntu-vps#step-four-%E2%80%93-configure-and-enable-a-new-virtual-host
